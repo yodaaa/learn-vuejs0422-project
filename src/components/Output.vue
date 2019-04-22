@@ -1,5 +1,6 @@
 <template>
   <div class="output">
+    <h1>Outputs</h1>
     <div class="content" v-for="i in 6" :key=i>
       <h3> {{name}}</h3>
       <p>{{text}}</p>
