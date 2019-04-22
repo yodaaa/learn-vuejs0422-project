@@ -2,7 +2,7 @@
   <div id="app">
     <!--<img src="./assets/logo.png">-->
     <tabmenu></tabmenu>
-    <!--<router-view/>-->
+    <router-view/>
   </div>
 </template>
 
